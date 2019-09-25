@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+### Social Media and GitHub Name
+Twitter: [@matt_strat](www.twitter.com) 
+GitHub: [Matt-Stratton](http://github.com)
